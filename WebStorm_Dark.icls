@@ -1,4 +1,4 @@
-<scheme name="Islands Dark" version="142" parent_scheme="Darcula">
+<scheme name="Catppuccin Noir" version="142" parent_scheme="Catppuccin Mocha">
   <metaInfo>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2026.2.3.0.0</property>
