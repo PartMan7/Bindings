@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <removed_mapping ext="diff" approved="true" type="PATCH" />
+      <removed_mapping ext="patch" approved="true" type="PATCH" />
+    </extensionMap>
+  </component>
+</application>
